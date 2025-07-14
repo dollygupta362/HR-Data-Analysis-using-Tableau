@@ -82,12 +82,6 @@ This project allowed me to:
 📧 **Email:** dollygupta362@gmail.com  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/dolly-gupta-3b54b8229)
 
----
-
-## 📃 License
-
-This project is developed for academic and portfolio purposes.  
-Feel free to explore and reuse with proper credit to the author.
 
 ---
 
